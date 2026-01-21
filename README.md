@@ -16,5 +16,3 @@ Languages: Python, JavaScript, TypeScript, SQL, Java, HTML/CSS, R/ R Studio, C/C
 Frameworks/Libs/DBs: React.js, Django, Express.js, Material UI, MongoDB, MySQL, MATLAB 
 
 Tools/Other: Git, Linux (Ubuntu), Figma, Adobe Photoshop, WordPress, Spanish
-
-Interests: Blockchain/FinTech, Teaching/Mentoring, Music (Saxophone)
