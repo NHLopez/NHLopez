@@ -1,4 +1,3 @@
-
 ## About Me 👋🏽
 Greetings! I am a Software Engineer with extensive experience with many difference 
 programming languages. I am more than familiar with many engineering design principles 
